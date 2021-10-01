@@ -1,4 +1,4 @@
-# Yo Sup I,m a Hustla!!!🔥🔥
+# Yo Sup, I,m a Hustla!!!🔥🔥
 
 
 - 🔭 I’m currently working on ...
