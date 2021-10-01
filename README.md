@@ -1,4 +1,4 @@
-# Yo!!! Sup!! , HipHop🎤+IT🖥+Hustla💥=it's me
+# Yo!!! Sup!! 👋
 
 
 - 🔭 I’m currently working on ...
@@ -9,6 +9,8 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+HipHop🎤+IT🖥+Hustla💥=it's me
 
 # Github Stats
 
