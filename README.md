@@ -1,4 +1,4 @@
-# Yo!!! Sup!, HipHop🎤+IT🖥+Hustla💥=it's me
+# Yo!!! Sup!! , HipHop🎤+IT🖥+Hustla💥=it's me
 
 
 - 🔭 I’m currently working on ...
