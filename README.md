@@ -1,4 +1,4 @@
-# Yo sup!!! 👋
+# Yo Sup!!! 👋
 
 
 - 🔭 I’m currently working on ...
@@ -10,6 +10,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
----
+# Github Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winbo121&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
