@@ -10,7 +10,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-HipHop🎤+IT🖥+Hustla💥=it's me
+HipHop🎤+IT🖥+Hustla🔥=it's me
 
 # Github Stats
 
