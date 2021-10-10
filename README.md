@@ -1,6 +1,7 @@
 # Yo!!! Sup!! 👺
 ![](https://komarev.com/ghpvc/?username=korany-lee&label=views&style=plastic&color=blue)
 <table>
+ <tr>### HipHop🎤+IT🖥+Hustla🔥=it's me<td></td><td>### Project</td></tr>
 <tr>
 <td>
 ### HipHop🎤+IT🖥+Hustla🔥=it's me
