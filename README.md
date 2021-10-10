@@ -6,9 +6,9 @@
 - 📫 Email : winbo121@naver.com
 
 ### Project
-- 📂 Project(1) : http://winbo121.cafe24.com/Weekend+/
+- 📂 Project(1) : http://winbo121.cafe24.com/EG/
 - 📂 Project(2) : http://winbo121.cafe24.com/Movie_web/intro
-- 📂 Project(3) : http://winbo121.cafe24.com/ex056/
+- 📂 Project(3) : http://winbo121.cafe24.com/Weekend+/
 
 ### Github Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winbo121&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
