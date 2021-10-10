@@ -1,20 +1,16 @@
 # Yo!!! Sup!! 👺
 ![](https://komarev.com/ghpvc/?username=korany-lee&label=views&style=plastic&color=blue)
-<table border="0">
- <tr><td><h3>HipHop🎤+IT🖥+Hustla🔥=it's me</h3></td><td><h3>Project<h3></td></tr>
-<tr>
-<td>
+
+### HipHop🎤+IT🖥+Hustla🔥=it's me
 - 🏨 Company : http://www.kotech.co.kr/
 - 💬 Instagram : https://www.instagram.com/jaehun5032/
 - 📫 Email : winbo121@naver.com
-</td>
-<td>
+
+### Project
 - 📂 Project(1) : http://winbo121.cafe24.com/EG/
 - 📂 Project(2) : http://winbo121.cafe24.com/Movie_web/intro
 - 📂 Project(3) : http://winbo121.cafe24.com/Weekend+/
-</td>
-</tr>
-</table>
+
 ### Languages and Tools
 <p align="left"> 
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
