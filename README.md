@@ -12,10 +12,6 @@
 - 📂 Project(3) : http://winbo121.cafe24.com/Weekend+/
 
 
-
-
-
-## Github Stats  
 <table><tr><td valign="top" width="500px">
 
 ### Github Stats
