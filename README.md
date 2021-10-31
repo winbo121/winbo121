@@ -1,30 +1,29 @@
 # Yo!!! Sup!! 👺
 ![](https://komarev.com/ghpvc/?username=korany-lee&label=views&style=plastic&color=blue)
 
-<table><tr><td valign="top" width="700px">
+
 
 ### HipHop🎤+IT🖥+Hustla🔥=it's me
 - 🏨 Company : http://www.kotech.co.kr/
 - 💬 Instagram : https://www.instagram.com/jaehun5032/
 - 📫 Email : winbo121@naver.com
 
-</td><td valign="top" width="700px">
+
 
  ### Project
 - 📂 Project(1) : http://winbo121.cafe24.com/EG/
 - 📂 Project(2) : http://winbo121.cafe24.com/Movie_web/intro
 - 📂 Project(3) : http://winbo121.cafe24.com/Weekend+/
 
-</td></tr></table>  
+ 
 
 
-<table><tr><td valign="top" width="700px">
 
 ### Github Stats
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winbo121&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-</td><td valign="top" width="700px">
+
 
 ### Languages and Tools
  
@@ -39,4 +38,4 @@
 <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
  </p>
 
-</td></tr></table>  
+
