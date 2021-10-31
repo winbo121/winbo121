@@ -16,13 +16,13 @@
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="100px">
 
 ### Github Stats
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winbo121&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-</td><td valign="top" width="60%">
+</td><td valign="top" width="100px">
 
 ### Languages and Tools
  
