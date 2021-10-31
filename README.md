@@ -1,7 +1,7 @@
 # Yo!!! Sup!! 👺
 ![](https://komarev.com/ghpvc/?username=korany-lee&label=views&style=plastic&color=blue)
 
-<table><tr><td valign="top" width="500px">
+<table><tr><td valign="top" width="600px">
 
 ### HipHop🎤+IT🖥+Hustla🔥=it's me
 - 🏨 Company : http://www.kotech.co.kr/
@@ -18,7 +18,7 @@
 </td></tr></table>  
 
 
-<table><tr><td valign="top" width="500px">
+<table><tr><td valign="top" width="600px">
 
 ### Github Stats
  
