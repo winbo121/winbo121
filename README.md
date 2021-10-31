@@ -15,15 +15,13 @@
 - 📂 Project(2) : http://winbo121.cafe24.com/Movie_web/intro
 - 📂 Project(3) : http://winbo121.cafe24.com/Weekend+/
 
- 
-
-
+<table><tr><td valign="top" width="500px">
 
 ### Github Stats
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winbo121&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
+</td><td valign="top" width="500px">
 
 ### Languages and Tools
  
@@ -38,4 +36,4 @@
 <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
  </p>
 
-
+</td></tr></table>  
