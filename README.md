@@ -4,7 +4,7 @@
 
 
 ### HipHop🎤+IT🖥+Hustla🔥=it's me
-- 🏨 Company  :  <a href="http://www.kotech.co.kr/" target="_blank">www.kotech.co.kr</a>
+- 🏨 Company  :  https://www.kotech.co.kr
 - 💬 Instagram  :  https://www.instagram.com/jaehun5032/
 - 📫 Email  :  winbo121@naver.com
 
