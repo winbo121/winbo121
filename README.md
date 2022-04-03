@@ -11,9 +11,8 @@
 
 
  ### Project
-- 📂 Project (1)  :  http://winbo121.cafe24.com/EG/
-- 📂 Project (2)  :  http://winbo121.cafe24.com/Movie_web/intro
-- 📂 Project (3)  :  http://winbo121.cafe24.com/Weekend+/
+- 📂 Project (1)  :  http://eg-game.kotech.kr/EG/
+- 📂 Project (2)  :  http://eg-game.kotech.kr/Movie_web/intro
 
 <table><tr><td valign="top" width="500px">
 
