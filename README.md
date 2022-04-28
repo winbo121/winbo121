@@ -13,6 +13,9 @@
  ### Project
 - 📂 Project (1)  :  http://eg-game.kotech.kr/EG/
 - 📂 Project (2)  :  http://eg-game.kotech.kr/Movie_web/intro
+- 📂 Project (2)  :  http://eg-game.kotech.kr/ex056/
+
+
 
 <table><tr><td valign="top" width="500px">
 
