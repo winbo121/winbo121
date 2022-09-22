@@ -11,9 +11,10 @@
 
 
  ### Project
-- 📂 Project (1)  :  http://eg-game.kotech.kr/EG/
-- 📂 Project (2)  :  http://eg-game.kotech.kr/Movie_web/intro
-- 📂 Project (2)  :  http://eg-game.kotech.kr/ex056/
+- 📂 Project (1)  :  http://eg-game.kotech.kr/EG/ (게임 사이트)
+- 📂 Project (2)  :  http://eg-game.kotech.kr/Movie_web/intro (영화추천 사이트)
+- 📂 Project (3)  :  http://eg-game.kotech.kr/Soccoar/ (축구클럽 사이트)
+- 📂 Project (4)  :  http://eg-game.kotech.kr/ex056/ (스프링 기본기능 사이트)
 
 
 
