@@ -2,10 +2,6 @@
 ![](https://komarev.com/ghpvc/?username=korany-lee&label=views&style=plastic&color=blue)
 
 
-
-
-- 🏨 Company  :  http://www.kotech.co.kr/
-- 💬 Instagram  :  https://www.instagram.com/jaehun5032/
 - 📫 Email  :  winbo123456@naver.com
 
 
