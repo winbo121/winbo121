@@ -8,7 +8,7 @@
 
  ### Practice Project
 - 📂 Project (1)  :  https://ireading.kr/ **(책추천 사이트)
-- 📂 Project (2)  :  [http://eg-game.kotech.kr/EG/](http://gta5544.cafe24.com:8080/) **(게임 사이트)
+- 📂 Project (2)  :  http://gta5544.cafe24.com:8080/ **(게임 사이트)
 - 📂 Project (3)  :  http://eg-game.kotech.kr/EG/ **(게임 사이트)
 - 📂 Project (4)  :  http://eg-game.kotech.kr/Movie_web/intro **(영화추천 사이트)
 
