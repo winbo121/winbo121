@@ -9,7 +9,7 @@
  ### Practice Project
 - 📂 Project (1)  :  [동영상 강좌 사이트](http://gta5544.cafe24.com/) 
 - 📂 Project (2)  :  [미니게임 사이트](http://gta5544.cafe24.com/EG) 
-- 📂 Project (3)  :  [영화추천 사이트](http://gta5544.cafe24.com/MovieWeb/intro.do)  (영화추천 사이트)
+- 📂 Project (3)  :  [영화추천 사이트](http://gta5544.cafe24.com/MovieWeb/intro.do)  
 
 
 
