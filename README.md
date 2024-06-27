@@ -7,7 +7,7 @@
 
 
  ### Practice 포트폴리오
-- 📂 Project (1)  :  [동영상 강좌 사이트](http://gta5544.cafe24.com/) 
+- 📂 Project (1)  :  [동영상 강좌 사이트](http://gta5544.cafe24.com/){:target="_blank"}
 - 📂 Project (2)  :  [미니게임 사이트](http://gta5544.cafe24.com/EG) 
 - 📂 Project (3)  :  [영화추천 사이트](http://gta5544.cafe24.com/MovieWeb/intro.do)
 - <a href="https://www.google.co.kr/" target="_blank"> https://www.google.co.kr/ </a>
