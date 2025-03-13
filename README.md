@@ -34,8 +34,8 @@
 <a href="https://www.python.org" target="_blank"><img src="https://github.com/user-attachments/assets/e2418d29-28f6-49ab-a241-c46d572cb221" alt="python" width="40" height="40"/></a> 
 <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
  <br>
- <a href="https://spring.io/" target="_blank"> <img src="https://github.com/user-attachments/assets/26b44ce6-889d-4c64-b48b-a93d8d1ed329" alt="Linux" width="40" height="40"/></a>
-  <a href="https://spring.io/" target="_blank"> <img src="https://github.com/user-attachments/assets/fc6efd9c-e8de-4b71-83c5-d9d0a255a8ef" alt="aws" width="40" height="40"/></a>
+ <a href="https://www.linux.org/" target="_blank"> <img src="https://github.com/user-attachments/assets/26b44ce6-889d-4c64-b48b-a93d8d1ed329" alt="Linux" width="40" height="30"/></a>
+  <a href="https://aws.amazon.com/ko/free/?gclid=Cj0KCQjwhMq-BhCFARIsAGvo0KfLUq1BinGCJR6t-YzFI0I08AAQDoAxzdTEx7QinwHGoodiygSJUrEaAijDEALw_wcB&trk=fa2d6ba3-df80-4d24-a453-bf30ad163af9&sc_channel=ps&ef_id=Cj0KCQjwhMq-BhCFARIsAGvo0KfLUq1BinGCJR6t-YzFI0I08AAQDoAxzdTEx7QinwHGoodiygSJUrEaAijDEALw_wcB:G:s&s_kwcid=AL!4422!3!563761819834!e!!g!!aws!15286221779!129400439466&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all" target="_blank"> <img src="https://github.com/user-attachments/assets/fc6efd9c-e8de-4b71-83c5-d9d0a255a8ef" alt="aws" width="40" height="30"/></a>
  </p>
 </td></tr></table>
 
