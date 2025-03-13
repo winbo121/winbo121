@@ -1,7 +1,7 @@
 # 안녕하세요!
 ![](https://komarev.com/ghpvc/?username=korany-lee&label=views&style=plastic&color=blue)
 
-- 경력 : 4년차 스프링 자바 개발자
+- 경력 : 5년차 스프링 자바 개발자
 - 📫 Email  :  winbo123456@naver.com
 
 
