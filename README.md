@@ -34,6 +34,4 @@
 <a href="https://www.python.org" target="_blank"><img src="https://github.com/user-attachments/assets/e2418d29-28f6-49ab-a241-c46d572cb221" alt="python" width="40" height="40"/></a> 
 <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
  </p>
-![캡처](https://github.com/user-attachments/assets/e2418d29-28f6-49ab-a241-c46d572cb221)
-
 </td></tr></table>  
