@@ -35,4 +35,3 @@
 <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
  </p>
 </td></tr></table>  
-![55](https://github.com/user-attachments/assets/fa4ca1f7-6771-46e3-b8b9-f30da76b333f)
