@@ -34,9 +34,9 @@
 <a href="https://www.python.org" target="_blank"><img src="https://github.com/user-attachments/assets/e2418d29-28f6-49ab-a241-c46d572cb221" alt="python" width="40" height="40"/></a> 
 <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
  <br>
- <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
+ <a href="https://spring.io/" target="_blank"> <img src="https://github.com/user-attachments/assets/26b44ce6-889d-4c64-b48b-a93d8d1ed329" alt="Linux" width="40" height="40"/></a>
+  <a href="https://spring.io/" target="_blank"> <img src="https://github.com/user-attachments/assets/fc6efd9c-e8de-4b71-83c5-d9d0a255a8ef" alt="aws" width="40" height="40"/></a>
  </p>
-</td></tr></table>  https://github.com/user-attachments/assets/26b44ce6-889d-4c64-b48b-a93d8d1ed329
-https://github.com/user-attachments/assets/fc6efd9c-e8de-4b71-83c5-d9d0a255a8ef
+</td></tr></table>
 
 
