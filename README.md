@@ -18,7 +18,7 @@
 
 ### Github Stats
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winbo121&langs_count=10&layout=compact&theme=dark)]﻿
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winbo121&layout=compact)](https://github.com/anuraghazra/github-readme-stats)﻿
 
 </td><td valign="top" width="500px">
 
