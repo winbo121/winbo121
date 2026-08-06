@@ -1,4 +1,5 @@
-# 안녕하세요!
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:4158D0,50:7B2CBF,100:C850C0&height=200&section=header&text=Kim%20Jae%20Hun&fontSize=42&fontColor=ffffff&animation=twinkling)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4158D0&center=true&vCenter=true&width=800&lines=Backend+Developer;Spring+%7C+JQuery+%7C+JSP;Always+learning+new+things)](https://git.io/typing-svg)
 ![](https://komarev.com/ghpvc/?username=korany-lee&label=views&style=plastic&color=blue)
 
 - 경력 : 6년차 스프링 자바 개발자
@@ -44,7 +45,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:4158D0,50:7B2CBF,100:C850C0&height=200&section=header&text=Kim%20Jae%20Hun&fontSize=42&fontColor=ffffff&animation=twinkling)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4158D0&center=true&vCenter=true&width=800&lines=Backend+Developer;Spring+%7C+JQuery+%7C+JSP;Always+learning+new+things)](https://git.io/typing-svg)
-> HipHop + IT + Hustla = it's me 🎤💻
+
 ---
 ### 🛠 Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
