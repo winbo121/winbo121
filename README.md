@@ -4,7 +4,7 @@
 
 
 ### 📫 Contact
-[![Email](https://img.shields.io/badge/Email-btiwbp@biztechi.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:winbo123456@naver.com)
+[![Email](https://img.shields.io/badge/Email-winbo123456@naver.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:winbo123456@naver.com)
 [![Instagram](https://img.shields.io/badge/Instagram-jaehun5032-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jaehun5032/)
 [![SoundCloud](https://img.shields.io/badge/SoundCloud-jaehun5032-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/jaehun5032)
 
