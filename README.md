@@ -19,7 +19,7 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### Practice 포트폴리오
+### 🛠 Practice 포트폴리오
 - 📂 Project (1)  :  [동영상 강좌 사이트](http://gta5544.cafe24.com/) 
 - 📂 Project (2)  :  [미니게임 사이트](http://gta5544.cafe24.com/EG) 
 - 📂 Project (3)  :  [영화추천 사이트](http://gta5544.cafe24.com/MovieWeb/intro.do)
