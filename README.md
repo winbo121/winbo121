@@ -1,11 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:4158D0,50:7B2CBF,100:C850C0&height=200&section=header&text=Kim%20Jae%20Hun&fontSize=42&fontColor=ffffff&animation=twinkling)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4158D0&center=true&vCenter=true&width=800&lines=Backend+Developer;Spring+%7C+JQuery+%7C+JSP;Always+learning+new+things)](https://git.io/typing-svg)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b560-0d0860a1e589.gif" width="100%">
+![line](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=2)
 
- ### 경력 : 6년차 스프링 자바 개발자
-- 📫 Email  :  winbo123456@naver.com
-
+### 📫 Contact
+[![Email](https://img.shields.io/badge/Email-btiwbp@biztechi.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:btiwbp@biztechi.com)
+[![Instagram](https://img.shields.io/badge/Instagram-jaehun5032-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jaehun5032/)
+[![SoundCloud](https://img.shields.io/badge/SoundCloud-jaehun5032-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/jaehun5032)
 
 
  ### Practice 포트폴리오
