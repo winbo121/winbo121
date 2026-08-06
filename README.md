@@ -17,8 +17,8 @@
 <table><tr><td valign="top" width="500px">
 
 ### Github Stats
- 
-﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winbo121&langs_count=10&layout=compact)]()
+
+﻿[![Top Langs](https://github.com/anuraghazbun/github-readme-stats/api/top-langs/?username=winbo121)](https://github.com/winbo121)
 
 </td><td valign="top" width="500px">
 
