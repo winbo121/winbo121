@@ -18,7 +18,7 @@
 
 ### Github Stats
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winbo121&layout=compact&theme=algolia)﻿
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winbo121)](https://github.com/winbo121/github-readme-stats)﻿
 
 </td><td valign="top" width="500px">
 
