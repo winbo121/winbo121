@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:4158D0,50:7B2CBF,100:C850C0&height=200&section=header&text=Kim%20Jae%20Hun&fontSize=42&fontColor=ffffff&animation=twinkling)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4158D0&center=true&vCenter=true&width=800&lines=Backend+Developer;Spring+%7C+JQuery+%7C+JSP;Always+learning+new+things)](https://git.io/typing-svg)
 
-![line](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=2)
+---
 
 ### 📫 Contact
 [![Email](https://img.shields.io/badge/Email-btiwbp@biztechi.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:winbo123456@naver.com)
@@ -52,35 +52,3 @@
   <a href="https://aws.amazon.com/ko/free/?gclid=Cj0KCQjwhMq-BhCFARIsAGvo0KfLUq1BinGCJR6t-YzFI0I08AAQDoAxzdTEx7QinwHGoodiygSJUrEaAijDEALw_wcB&trk=fa2d6ba3-df80-4d24-a453-bf30ad163af9&sc_channel=ps&ef_id=Cj0KCQjwhMq-BhCFARIsAGvo0KfLUq1BinGCJR6t-YzFI0I08AAQDoAxzdTEx7QinwHGoodiygSJUrEaAijDEALw_wcB:G:s&s_kwcid=AL!4422!3!563761819834!e!!g!!aws!15286221779!129400439466&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all" target="_blank"> <img src="https://github.com/user-attachments/assets/fc6efd9c-e8de-4b71-83c5-d9d0a255a8ef" alt="aws" width="45" height="40"/></a>
  </p>
 </td></tr></table>
-
-------
-
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:4158D0,50:7B2CBF,100:C850C0&height=200&section=header&text=Kim%20Jae%20Hun&fontSize=42&fontColor=ffffff&animation=twinkling)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4158D0&center=true&vCenter=true&width=800&lines=Backend+Developer;Spring+%7C+JQuery+%7C+JSP;Always+learning+new+things)](https://git.io/typing-svg)
-
----
-### 🛠 Tech Stack
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
----
-### 📊 GitHub Stats
-![GitHub Stats](https://github-stats-extended.vercel.app/api/?username=winbo121&show_icons=true&theme=tokyo_night&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com/?user=winbo121&theme=tokyo_night&hide_border=true)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=winbo121&theme=tokyo-night&hide_border=true)
-![Trophy](https://github-profile-trophy.vercel.app/?username=winbo121&theme=onedark&no-frame=true&column=4)
----
-### 📫 Contact
-[![GitHub](https://img.shields.io/badge/GitHub-winbo121-181717?style=for-the-badge&logo=github)](https://github.com/winbo121)
-[![Instagram](https://img.shields.io/badge/Instagram-jaehun5032-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jaehun5032/)
-
-
