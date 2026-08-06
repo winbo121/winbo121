@@ -18,7 +18,7 @@
 
 ### Github Stats
 
-﻿![Top Langs](https://ghstats.dev/api/langs?username=winbo121)
+﻿![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=winbo121&layout=compact&theme=tokyo_night&hide_border=true)
 
 </td><td valign="top" width="500px">
 
@@ -57,7 +57,6 @@
 ---
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-stats-extended.vercel.app/api/?username=winbo121&show_icons=true&theme=tokyo_night&hide_border=true)
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=winbo121&layout=compact&theme=tokyo_night&hide_border=true)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=winbo121&theme=tokyo_night&hide_border=true)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=winbo121&theme=tokyo-night&hide_border=true)
 ![Trophy](https://github-profile-trophy.vercel.app/?username=winbo121&theme=onedark&no-frame=true&column=4)
