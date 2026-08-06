@@ -8,8 +8,19 @@
 [![Instagram](https://img.shields.io/badge/Instagram-jaehun5032-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jaehun5032/)
 [![SoundCloud](https://img.shields.io/badge/SoundCloud-jaehun5032-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/jaehun5032)
 
+### 🛠 Tech Stack
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
- ### Practice 포트폴리오
+### Practice 포트폴리오
 - 📂 Project (1)  :  [동영상 강좌 사이트](http://gta5544.cafe24.com/) 
 - 📂 Project (2)  :  [미니게임 사이트](http://gta5544.cafe24.com/EG) 
 - 📂 Project (3)  :  [영화추천 사이트](http://gta5544.cafe24.com/MovieWeb/intro.do)
