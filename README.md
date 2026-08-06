@@ -18,7 +18,7 @@
 
 ### Github Stats
 
-﻿![GitHub Stats](https://ghstats.dev/api/card?username=winbo121)
+﻿![Top Langs](https://ghstats.dev/api/langs?username=winbo121)
 
 </td><td valign="top" width="500px">
 
