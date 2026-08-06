@@ -18,7 +18,7 @@
 
 ### Github Stats
 
-﻿[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=winbo121)](https://github.com/winbo121)
+﻿![GitHub Stats](https://github-stats-extended.vercel.app/api/?username=winbo121&show_icons=true)
 
 </td><td valign="top" width="500px">
 
