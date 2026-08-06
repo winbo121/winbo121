@@ -18,7 +18,7 @@
 
 ### Github Stats
 
-﻿![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=winbo121&layout=compact&theme=tokyo_night&hide_border=true)
+﻿![Top Langs](https://ghstats.dev/api/langs?username=winbo121)
 
 </td><td valign="top" width="500px">
 
