@@ -1,12 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:4158D0,50:7B2CBF,100:C850C0&height=200&section=header&text=Kim%20Jae%20Hun&fontSize=42&fontColor=ffffff&animation=twinkling)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4158D0&center=true&vCenter=true&width=800&lines=Backend+Developer;Spring+%7C+JQuery+%7C+JSP;Always+learning+new+things)](https://git.io/typing-svg)
 
-
+https://soundcloud.com/user-750778339
 
 ### 📫 Contact
 [![Email](https://img.shields.io/badge/Email-winbo123456@naver.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:winbo123456@naver.com)
 [![Instagram](https://img.shields.io/badge/Instagram-jaehun5032-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jaehun5032/)
-[![SoundCloud](https://img.shields.io/badge/SoundCloud-KJHustla-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white)](https://www.instagram.com/jaehun5032/)
+[![SoundCloud](https://img.shields.io/badge/SoundCloud-KJHustla-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/user-750778339)
 
 ### 🛠 Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
