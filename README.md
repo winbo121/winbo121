@@ -39,4 +39,31 @@
  </p>
 </td></tr></table>
 
+------
+
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:4158D0,50:7B2CBF,100:C850C0&height=200&section=header&text=Kim%20Jae%20Hun&fontSize=42&fontColor=ffffff&animation=twinkling)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4158D0&center=true&vCenter=true&width=800&lines=Backend+Developer;Spring+Boot+%7C+React+%7C+Java;Always+learning+new+things)](https://git.io/typing-svg)
+> HipHop + IT + Hustla = it's me 🎤💻
+---
+### 🛠 Tech Stack
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+---
+### 📊 GitHub Stats
+![GitHub Stats](https://github-stats-extended.vercel.app/api/?username=winbo121&show_icons=true&theme=tokyo_night&hide_border=true)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=winbo121&layout=compact&theme=tokyo_night&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=winbo121&theme=tokyo_night&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=winbo121&theme=tokyo-night&hide_border=true)
+![Trophy](https://github-profile-trophy.vercel.app/?username=winbo121&theme=onedark&no-frame=true&column=4)
+---
+### 📫 Contact
+[![GitHub](https://img.shields.io/badge/GitHub-winbo121-181717?style=for-the-badge&logo=github)](https://github.com/winbo121)
+[![Instagram](https://img.shields.io/badge/Instagram-jaehun5032-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jaehun5032/)
+
 
